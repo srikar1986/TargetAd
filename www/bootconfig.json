@@ -1,6 +1,6 @@
 {
-  "remoteAccessConsumerKey": "06P410000008RE3",
-  "oauthRedirectURI": "sfdc://success",
+  "remoteAccessConsumerKey": "3MVG9szVa2RxsqBbIbHUaT4L8StSXRJvzs9ngHonc.ThrLzKlESwuaCEZqYWlFtPFz4EOOg3Bw4QPSXWuZxch",
+  "oauthRedirectURI": "targetadapp://auth/success",
   "oauthScopes": [
     "web",
     "api"
